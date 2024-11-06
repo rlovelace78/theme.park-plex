@@ -1,10 +1,10 @@
 [class*="NavBar-logoContainer-"] {
     background-image: url("https://rlovelace78.github.io/theme.park-plex/css/addons/plex/plex-alt-logo/SeekPng.com_your-logo-here-png_2467553.png");
-    background-position: 150%;
+    background-position: 140%;
     background-repeat: no-repeat;
     background-size: contain;
     margin: 0 10px;
-    width: 150px;
+    width: 135px;
 }
 [class*="NavBar-logoContainer-"] svg {
     display: none;
