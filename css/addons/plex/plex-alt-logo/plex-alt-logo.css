@@ -8,5 +8,5 @@
 }
 
 [class*="NavBar-logoContainer-"] svg {
-  
+  display: none;
 }
