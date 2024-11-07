@@ -4,7 +4,7 @@
     background-repeat: no-repeat;
     background-size: contain;
     margin: 15 10px;
-    width: 100px;
+    width: 95px;
 }
 [class*="NavBar-logoContainer-"] svg {
     display: none;
