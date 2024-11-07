@@ -17,5 +17,7 @@
     margin: 9 10px;
     width: 140px;
 }
+[class*="plex-preloader-container plex-image-preloader plex-logo"] PNG {
+    display: none;
 
-
+}
