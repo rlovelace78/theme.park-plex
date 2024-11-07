@@ -11,6 +11,7 @@
 }
 [class*="plex-preloader-container plex-image-preloader plex-logo"] {
     background-image: url("https://rlovelace78.github.io/theme.park-plex/css/addons/plex/plex-alt-logo/mediaaa.jpg");
+    background-color: black;
     background-position: 500%;
     background-repeat: no-repeat;
     background-size: contain;
