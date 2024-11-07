@@ -9,15 +9,3 @@
 [class*="NavBar-logoContainer-"] svg {
     display: none;
 }
-[class*="plex-preloader-container plex-image-preloader plex-logo"] {
-    background-image: url("/css/addons/plex/plex-alt-logo/SeekPng.com_your-logo-here-png_2467553.png");
-    background-position: 140%;
-    background-repeat: no-repeat;
-    background-size: contain;
-    margin: 9 10px;
-    width: 140px;
-}
-[class*="plex-preloader-container plex-image-preloader plex-logo"] PNG {
-    display: none;
-
-}
