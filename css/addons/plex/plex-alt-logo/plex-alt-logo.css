@@ -3,7 +3,7 @@
     background-position: 100%;
     background-repeat: no-repeat;
     background-size: contain;
-    margin: -10px 0px;
+    margin: 2px 0px;
     width: 80px;
 }
 [class*="NavBar-logoContainer-"] svg {
